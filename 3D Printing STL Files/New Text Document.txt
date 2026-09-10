@@ -1,0 +1,12 @@
+Print parts list:
+1x body_d.stl
+
+1x body_u.stl
+
+4x coxa.stl
+
+4x tibia.stl
+
+4x femur.stl
+
+8x s_hold.stl
